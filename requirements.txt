@@ -2,4 +2,5 @@ pylint
 pytest
 black
 wikipedia
-ipython
+IPython==8.12.2
+fire
